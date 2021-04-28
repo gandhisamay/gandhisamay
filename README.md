@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samay Gandhi
-- 👀 I’m interested in machine learning and deep learning 
+- 👀 I’m interested in machine learning 
 - 🌱 I’m currently learning deep learning 
 - 💞️ I’m looking to collaborate on for any ai projects 
 - 📫 To reach me email me on gandhisamay200@gmail.com
