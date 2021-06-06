@@ -1,4 +1,4 @@
-## Hi, I'm Samay Gandhi 
+## *Hello, I'm Samay Gandhi* 
 
 ***Student from BITS Pilani, Computer Science***
 
