@@ -14,6 +14,7 @@ Learning different stuff has always been my interest and after starting coding m
 1) Machine Learning 
 2) App Development
 
+### Reach me out at- gandhisamay200@gmail.com 
 <!---
 gandhisamay/gandhisamay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
