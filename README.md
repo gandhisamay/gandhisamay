@@ -3,11 +3,12 @@
 ***Student from BITS Pilani, Computer Science***
 
 *Learning different stuff has always been my interest and after starting coding my thirst for it always kept on increasing. Spending whole day in a coding seems like a bliss to me :)*
+
 **Organizations**
 
-*1) Core Team Member, Association of Computing Machinery, BITS-Pilani* 
+1) Core Team Member, Association of Computing Machinery, BITS-Pilani 
 
-*2) AI Lead and Core Team Member, Google DSC, BITS Pilani*
+2) AI Lead and Core Team Member, Google DSC, BITS Pilani
 
 **Interests**
 
