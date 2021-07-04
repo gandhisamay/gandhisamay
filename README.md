@@ -8,13 +8,13 @@
 
 1) Core Team Member, Association of Computing Machinery, BITS-Pilani 
 
-2) AI Lead and Core Team Member, Google DSC, BITS Pilani
+2) Core Team Member, Google DSC, BITS Pilani
 
 **Interests**
 
-1) Machine Learning
+1) Web developer
 
-2) App Development
+2) App developer
 
 **Reach me out at- gandhisamay200@gmail.com**
 <!---
