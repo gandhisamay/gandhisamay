@@ -12,9 +12,9 @@
 
 **Interests**
 
-1) Web developer
+1) App Development
 
-2) App developer
+2) Web Development
 
 **Reach me out at- gandhisamay200@gmail.com**
 <!---
